@@ -1,21 +1,7 @@
 # ninja log v5
-1	1030	7310979053971239	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-1037	1377	7310979057342543	Parcial_Progra.exe	db2c7fc804210d5b
-8	813	7310986937653397	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-816	1367	7310986943120230	Parcial_Progra.exe	db2c7fc804210d5b
-10	728	7310987411806826	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-730	997	7310987414417897	Parcial_Progra.exe	db2c7fc804210d5b
-9	706	7310988887204268	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-708	916	7310988889208221	Parcial_Progra.exe	db2c7fc804210d5b
-14	811	7310990357140015	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-827	1132	7310990360186984	Parcial_Progra.exe	db2c7fc804210d5b
-7	781	7310991321708441	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-782	1038	7310991324180687	Parcial_Progra.exe	db2c7fc804210d5b
-8	725	7310991895941218	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-726	955	7310991898065471	Parcial_Progra.exe	db2c7fc804210d5b
-8	771	7310992135387651	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-772	999	7310992137538186	Parcial_Progra.exe	db2c7fc804210d5b
-9	738	7310992394596163	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
-739	964	7310992396678541	Parcial_Progra.exe	db2c7fc804210d5b
 8	790	7310992573973946	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
 792	1026	7310992576220133	Parcial_Progra.exe	db2c7fc804210d5b
+3	486	7311005259282058	build.ninja	2680f27b0a7e24d5
+2	470	7311005259282058	build.ninja	2680f27b0a7e24d5
+11	776	7311006004820659	CMakeFiles/Parcial_Progra.dir/main.cpp.obj	6f9aa11ddbf5d2bf
+778	1089	7311006007820363	Parcial_Progra.exe	db2c7fc804210d5b
